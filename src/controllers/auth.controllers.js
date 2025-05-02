@@ -5,7 +5,7 @@ import fs from 'fs';
 import verifyYourEmail from '../utils/mail.n.js';
 import crypto from 'crypto';
 import jwt from 'jsonwebtoken';
-
+/* todo */
 const cookieOptions = {
   httpOnly: true, 
   secure: true
